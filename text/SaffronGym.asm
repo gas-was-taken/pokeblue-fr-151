@@ -217,8 +217,7 @@ _SaffronGymBattleText6::
 	cont "CHAMPION!"
 
 	para "Tu vas en baver"
-	line "comme un russe"
-	cont "avant de"
+	line "avant de"
 	cont "l'atteindre!"
 	done
 
