@@ -1042,8 +1042,8 @@ _GolduckDexEntry::
 	next "des côtes. Il est"
 
 	page "souvent confondu"
-	next "avec le monstre"
-	next "japonais: Kappa."
+	next "avec la créature"
+	next "mythique: Kappa."
 	dex
 
 _HypnoDexEntry::
