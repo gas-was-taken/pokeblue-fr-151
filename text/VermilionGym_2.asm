@@ -132,7 +132,7 @@ _VermilionGymGymGuideChampInMakingText::
 	para "Le MAJOR BOB a"
 	line "un surnom. On"
 	cont "l'appelle..."
-	cont "Le Ricain"
+	cont "L'Unysien"
 	cont "Survolté!"
 
 	para "Il est expert"
