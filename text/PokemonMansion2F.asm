@@ -20,7 +20,8 @@ _Mansion2AfterBattleText1::
 _Mansion2Text3::
 	text "Rapport:"
 	line "5 Juillet."
-	cont "Jungle X."
+	cont "ÎLE LOINTAINE,"
+	cont "HOENN."
 
 	para "Un nouveau type "
 	line "de #MON fut"
