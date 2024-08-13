@@ -37,7 +37,7 @@ _Museum2FHikerText::
 
 _Museum2FSpaceShuttleSignText::
 	text "NAVETTE SPATIALE"
-	line "COLUMBIA"
+	line "ALGATIA"
 	done
 
 _Museum2FMoonStoneSignText::
