@@ -123,7 +123,7 @@ _VermilionCityText12::
 	cont "CHAMPION:"
 	cont "MAJOR BOB"
 
-	para "Le Ricain"
+	para "L'Unysien"
 	line "Survolté!"
 	done
 
