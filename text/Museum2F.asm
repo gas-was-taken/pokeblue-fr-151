@@ -37,7 +37,7 @@ _Museum2FText5::
 
 _Museum2FText6::
 	text "NAVETTE SPATIALE"
-	line "COLUMBIA"
+	line "ALGATIA"
 	done
 
 _Museum2FText7::
