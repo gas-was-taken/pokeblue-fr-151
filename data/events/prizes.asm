@@ -7,7 +7,7 @@ NoThanksText:
 	db "NON MERCI@"
 
 PrizeMenuMon1Entries:
-	db ABRA
+	db SLOWPOKE
 	db CLEFAIRY
 IF DEF(_RED)
 	db NIDORINA
@@ -55,13 +55,13 @@ ENDC
 	db "@"
 
 PrizeMenuTMsEntries:
-	db TM_DRAGON_RAGE
-	db TM_HYPER_BEAM
-	db TM_SUBSTITUTE
+	db MOON_STONE
+	db DOME_FOSSIL
+	db HELIX_FOSSIL
 	db "@"
 
 PrizeMenuTMsCost:
-	bcd2 3300
-	bcd2 5500
-	bcd2 7700
+	bcd2 800
+	bcd2 2000
+	bcd2 2000
 	db "@"
