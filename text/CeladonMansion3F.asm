@@ -45,9 +45,9 @@ _CeladonMansion3FGameDesignerCompletedDexText::
 
 _CeladonMansion3FGameProgramPCText::
 	text "Le programme"
-	line "du jeu! Si tu y"
-	cont "touches, tout va"
-	cont "planter!"
+	line "du jeu!"
+	cont "Il semble"
+	cont "modifié!"
 	done
 
 _CeladonMansion3FPlayingGamePCText::
