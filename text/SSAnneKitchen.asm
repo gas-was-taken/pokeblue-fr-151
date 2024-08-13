@@ -52,7 +52,7 @@ _SSAnne6Text_61807::
 	prompt
 
 _SSAnne6Text_6180c::
-	text "Salade de saumon!"
+	text "MAGIKARP grillé!"
 
 	para "Pour ceux qui ne"
 	line "sont pas contents"
@@ -61,7 +61,7 @@ _SSAnne6Text_6180c::
 	done
 
 _SSAnne6Text_61811::
-	text "Pâté d'anguilles!"
+	text "Pâté d'ANCHWATT!"
 
 	para "De quoi donner"
 	line "des envies de"
@@ -69,9 +69,9 @@ _SSAnne6Text_61811::
 	done
 
 _SSAnne6Text_61816::
-	text "Côtes de boeuf!"
+	text "Côtes de TAUROS!"
 
 	para "Mais je crois"
-	line "que je n'ai plus"
-	cont "de viande?!"
+	line "que je n'en ai"
+	cont "plus en stock?!"
 	done

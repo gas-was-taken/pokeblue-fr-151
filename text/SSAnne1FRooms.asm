@@ -84,7 +84,7 @@ _SSAnne8AfterBattleText4::
 _SSAnne8Text5::
 	text "Serveur,"
 	line "amenez-moi une"
-	cont "tarte aux poires!"
+	cont "tarte aux baies!"
 	done
 
 _SSAnne8Text6::

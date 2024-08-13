@@ -77,7 +77,7 @@ _SSAnne10AfterBattleText4::
 _SSAnne10BattleText5::
 	text "Si tu perds, on"
 	line "te balance aux"
-	cont "requins!"
+	cont "SHARPEDO!"
 	done
 
 _SSAnne10EndBattleText5::
@@ -87,7 +87,7 @@ _SSAnne10EndBattleText5::
 
 _SSAnne10AfterBattleText5::
 	text "Souvent, quelques"
-	line "méduses sont"
+	line "TENTACOOL sont"
 	cont "entraînées dans"
 	cont "le sillage"
 	cont "du bateau..."
