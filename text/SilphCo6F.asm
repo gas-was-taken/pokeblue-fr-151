@@ -76,9 +76,8 @@ _SilphCo6FScientistBattleText::
 	text "Quel porc ce"
 	line "PDG!"
 
-	para "Il a décidé de me"
-	line "muter au siège de"
-	cont "TRIFOUILLI!"
+	para "Il refuse de me"
+	line "muter à JOHTO!"
 	done
 
 _SilphCo6FScientistEndBattleText::
@@ -86,10 +85,10 @@ _SilphCo6FScientistEndBattleText::
 	prompt
 
 _SilphCo6FScientistAfterBattleText::
-	text "TRIFOUILLI?"
-	line "C'est au beau"
-	cont "milieu de nulle"
-	cont "part!"
+	text "Pourquoi JOHTO?"
+	line "Ma famille"
+	cont "habite à"
+	cont "ECORCIA!"
 	done
 
 _SilphCo6FRocket2BattleText::
