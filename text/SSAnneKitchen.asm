@@ -52,7 +52,7 @@ _SSAnneKitchenCook7MainCourseIsText::
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Salade de saumon!"
+	text "MAGICARPE grillé!"
 
 	para "Pour ceux qui ne"
 	line "sont pas contents"
@@ -61,7 +61,7 @@ SSAnneKitchenCook7SalmonDuSaladText::
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
-	text "Pâté d'anguilles!"
+	text "Pâté d'ANCHWATT!"
 
 	para "De quoi donner"
 	line "des envies de"
@@ -69,9 +69,9 @@ SSAnneKitchenCook7EelsAuBarbecueText::
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
-	text "Côtes de boeuf!"
+	text "Côtes de TAUROS!"
 
 	para "Mais je crois"
-	line "que je n'ai plus"
-	cont "de viande?!"
+	line "que je n'en ai"
+	cont "plus en stock?!"
 	done

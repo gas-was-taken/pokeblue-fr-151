@@ -77,7 +77,7 @@ _SSAnneB1FRoomsSailor4AfterBattleText::
 _SSAnneB1FRoomsSailor5BattleText::
 	text "Si tu perds, on"
 	line "te balance aux"
-	cont "requins!"
+	cont "SHARPEDO!"
 	done
 
 _SSAnneB1FRoomsSailor5EndBattleText::
@@ -87,7 +87,7 @@ _SSAnneB1FRoomsSailor5EndBattleText::
 
 _SSAnneB1FRoomsSailor5AfterBattleText::
 	text "Souvent, quelques"
-	line "méduses sont"
+	line "TENTACOOL sont"
 	cont "entraînées dans"
 	cont "le sillage"
 	cont "du bateau..."

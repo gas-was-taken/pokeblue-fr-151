@@ -84,7 +84,7 @@ _SSAnne1FRoomsCooltrainerFAfterBattleText::
 _SSAnne1FRoomsGirl1Text::
 	text "Serveur,"
 	line "amenez-moi une"
-	cont "tarte aux poires!"
+	cont "tarte aux baies!"
 	done
 
 _SSAnne1FRoomsMiddleAgedManText::
